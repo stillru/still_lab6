@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="program">
+        <item>OS</item>
+        <item>Text Editor</item>
+        <item>IDE</item>
+    </string-array>
+</resources>
